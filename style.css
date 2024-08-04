@@ -1,0 +1,16 @@
+.dropdown:hover > .dropdown-menu,.dropend:hover > .dropdown-menu{
+    display: block;
+    
+} 
+
+.dropend:hover > .dropdown-menu{
+    position: absolute;
+    top: 0;
+    left: 100%;
+}
+
+
+.carousel-caption h5,.txt {
+  text-shadow: 2px 2px 10px firebrick;
+}
+
